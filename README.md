@@ -1,18 +1,53 @@
-# 💫 About Me:
-Web Development<br>
+## Hi there! 👋
 
+I'm Md. Shahriar, a passionate WordPress Developer with a knack for crafting beautiful and functional websites. I love turning ideas into reality!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.shahriar.sizer.98/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahriar-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.shariar1999@gmail.com) 
+## About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sfsizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sfsizer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfsizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a dedicated developer based in Bangladesh. With a strong focus on WordPress development, I strive to create seamless user experiences. I am open to collaboration and always eager to learn new technologies.
 
----
-[![](https://visitcount.itsvg.in/api?id=sfsizer&icon=0&color=0)](https://visitcount.itsvg.in)
+## Skills & Technologies
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+html,css,tailwind,bootstrap,php,mysql,js,jquery,git,github,figma,vscode
+
+## Top Projects
+
+- [sfsizer](https://github.com/sfsizer/sfsizer): A repository showcasing my skills as a WordPress Developer.
+  - ⭐ 0 Stars
+  - Primary Language: Not Specified
+  - Forks: 0 | Issues: 0
+
+- [rrf-exam](https://github.com/sfsizer/rrf-exam): An exam template project aimed at creating a streamlined testing experience.
+  - ⭐ 0 Stars
+  - Primary Language: HTML
+  - Forks: 0 | Issues: 0
+
+- [template-practice](https://github.com/sfsizer/template-practice): A project focused on practicing different templates and structures.
+  - ⭐ 0 Stars
+  - Primary Language: Not Specified
+  - Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfsizer&show_icons=true&theme=radical)
+
+- **Public Repositories:** 3
+- **Followers:** 0
+- **Following:** 1
+
+## Recent Activity
+
+- **Pushed to** [sfsizer](https://github.com/sfsizer/sfsizer) on November 20, 2025.
+- **Created a new branch** in [sfsizer](https://github.com/sfsizer/sfsizer) on November 20, 2025.
+- **Pushed to** [rrf-exam](https://github.com/sfsizer/rrf-exam) on November 17, 2025.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts, but I'm working on creating content that shares my journey and insights in WordPress development!
+
+## Connect with Me
+
+Facebook: https://www.facebook.com/md.shahriar.sizer.98/ <br>
+LinkedIn: https://www.linkedin.com/in/md-shahriar-dev/
+Mail:md.shariar1999@gmial.com
+YouTube:https://www.youtube.com/channel/UC07K9ezajTltPxDHXFIu0vw
