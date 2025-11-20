@@ -1,122 +1,18 @@
-# Md. Shahriar
+# 💫 About Me:
+Web Development<br>
 
-```typescript
-const profile = {
-  name: "Md. Shahriar",
-  bio: "Web Developer passionate about creating amazing web experiences",
-  currentWork: "Working on a new WordPress Development project",
-  learning: "Learning PHP and JavaScript to improve my web development skills",
-  interests: "Open-source contribution,ui/ux design,wordpress,tech blogs",
-  skills: [
-    "Tailwind",
-    "HTML5",
-    "CSS3",
-    "Bootstrap",
-    "MySQL",
-    "JavaScript",
-    "PHP"
-  ],
-}
-```
 
-## 🔭 I'm currently working on
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.shahriar.sizer.98/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahriar-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.shariar1999@gmail.com) 
 
-Working on a new WordPress Development project
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sfsizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sfsizer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfsizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌱 I'm currently learning
+---
+[![](https://visitcount.itsvg.in/api?id=sfsizer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Learning PHP and JavaScript to improve my web development skills
-
-## 👀 I'm interested in
-
-Open-source contribution, ui/ux design,wordpress,tech blogs
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'sfsizer' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sfsizer/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'sfsizer' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sfsizer&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'sfsizer' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfsizer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'sfsizer' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfsizer&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'sfsizer' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfsizer&theme=dark&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
-```json
-{
-  "frontend": [
-    "Tailwind",
-    "HTML5",
-    "CSS3",
-    "Bootstrap"
-  ],
-  "backend": [
-    "MySQL"
-  ],
-  "languages": [
-    "JavaScript",
-    "PHP"
-  ]
-}
-```
-
-## 🌐 Socials
-
-```javascript
-const socials = {
-  github: "sfsizer",
-  linkedin: "https://www.linkedin.com/in/md-shahriar-dev/",
-  website: "https://shahriar-portfolio-static.vercel.app/",
-  instagram: "https://www.instagram.com/sizer006/",
-  facebook: "https://www.facebook.com/md.shahriar.sizer.98/",
-  youtube: "UC07K9ezajTltPxDHXFIu0vw",
-  codepen: "Md-Shahriar-the-reactor",
-}
-```
-
-<div>
-<a href="https://github.com/sfsizer"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.instagram.com/sizer006/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/md-shahriar-dev/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/md.shahriar.sizer.98/"><img src="https://img.shields.io/badge/facebook-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC07K9ezajTltPxDHXFIu0vw"><img src="https://img.shields.io/badge/youtube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://shahriar-portfolio-static.vercel.app/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://codepen.io/Md-Shahriar-the-reactor"><img src="https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" /></a> 
-</div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "md.shariar1999@gmail.com",
-  phone: "+8801747280993",
-}
-```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
